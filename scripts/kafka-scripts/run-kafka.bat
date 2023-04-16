@@ -1,0 +1,1 @@
+START %KAFKA_HOME%\bin\windows\kafka-server-start.bat C:\Users\Lucky\Documents\learning\project-interview-2023\pyspark-demo\scripts\kafka-scripts\server.properties

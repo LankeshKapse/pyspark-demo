@@ -1,0 +1,9 @@
+{"sensor_id": 3, "sensor_loc": "bedroom", "control": "ok-google", "counter": 78, "date": "15-04-2023 10:06:21"}
+{"sensor_id": 3, "sensor_loc": "bedroom", "control": "ok-google", "counter": 75, "date": "15-04-2023 10:06:23"}
+{"sensor_id": 1, "sensor_loc": "living_room", "control": "alexa", "counter": 63, "date": "15-04-2023 10:06:25"}
+{"sensor_id": 2, "sensor_loc": "kitchen", "control": "alexa", "counter": 90, "date": "15-04-2023 10:06:27"}
+{"sensor_id": 3, "sensor_loc": "bedroom", "control": "ok-google", "counter": 82, "date": "15-04-2023 10:06:29"}
+{"sensor_id": 1, "sensor_loc": "living_room", "control": "alexa", "counter": 53, "date": "15-04-2023 10:06:31"}
+{"sensor_id": 3, "sensor_loc": "bedroom", "control": "ok-google", "counter": 51, "date": "15-04-2023 10:06:33"}
+{"sensor_id": 2, "sensor_loc": "kitchen", "control": "alexa", "counter": 82, "date": "15-04-2023 10:06:35"}
+{"sensor_id": 3, "sensor_loc": "bedroom", "control": "ok-google", "counter": 84, "date": "15-04-2023 10:06:37"}

@@ -1,0 +1,5 @@
+include Pipfile
+include Pipfile.lock
+include requirements.txt
+include scripts/kafka-scripts/*
+include docs/sensors-data/sensor_parquet/*

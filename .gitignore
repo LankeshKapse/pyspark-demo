@@ -1,0 +1,6 @@
+*.pyc
+*.xml
+*.iml
+dist/*
+pyspark_demo.egg-info/*
+.venv/*
